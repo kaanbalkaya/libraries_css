@@ -1,0 +1,45 @@
+body {
+	/*background-color:sandybrown;*/
+
+}
+
+.content {
+	max-width: 80%;
+	margin:auto;
+}
+.header{
+	/*border: 1px solid red;*/
+	overflow:hidden;
+}
+
+.header-child{
+	/*border: 1px solid green;*/
+	width:49%;
+	float:left;
+
+}
+
+.header-child .atam{
+	float:right;
+	margin-top:2%;
+
+}
+
+.header-child .logo{
+	float:left;
+	height:90px;
+}
+
+
+nav{
+	display: block;
+	text-align:right;
+}
+
+footer{
+	text-align: center;
+
+}
+
+
+
